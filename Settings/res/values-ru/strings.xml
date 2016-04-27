@@ -2454,7 +2454,7 @@
     <string name="bluetooth_access_contact_call_history">Доступ к контактам и истории вызовов</string>
     <string name="bt_waiting">Подождите…</string>
     <string name="ok">OK</string>
-    <string name="bluetooth_visibility">Видимость</string>
+    <string name="bluetooth_visibility">Обнаружение</string>
     <string name="bluetooth_not_connected">Не соединён</string>
     <string name="bluetooth_and">" и "</string>
     <string name="bluetooth_mark">,</string>
