@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">NetworkLocation</string>
+    <string name="app_label">網絡位置</string>
+    <string name="location_warning_title">提示</string>
+    <string name="location_warning_title_first">提示</string>
+    <string name="location_warning_title_close">提示</string>
+    <string name="location_warning_message">"打開百度網絡定位服務功能後，您將允許百度的網絡定位服務收集匿名地點數據。系統可能會將部分數據加密存儲在您的設備上。即使您的設備未運行任何應用程序，該服務也會加密並收集此類數據。當加密收集數據時將會産生數據流量費用。加密收集的數據將用于反饋位置信息以及提高定位性能和精確度，我們承諾不會將收集的數據提供給第三方或用于提供服務之外的其他目的。收集的數據包括： 
+- 所要測量的周邊WLAN AP的ID、信號強度信息 
+- 所要測量的周邊基站的ID、信號強度信息（GSM網的情況） 
+- 所要測量的周邊基站的ID、信號強度信息（CDMA 網的情況）。"</string>
+    <string name="location_warning_message1">打開百度網絡定位服務功能後，您將允許百度的網絡定位服務收集匿名地點數據。系統可能會將部分數據加密存儲在您的設備上。即使您的設備未運行任何應用程序，該服務也會加密並收集此類數據。</string>
+    <string name="location_warning_message2">當加密收集數據時將會産生數據流量費用。加密收集的數據將用于反饋位置信息以及提高定位性能和精確度，我們承諾不會將收集的數據提供給第三方或用于提供服務之外的其他目的。收集的數據包括：</string>
+    <string name="location_warning_message3">所要測量的周邊WLAN AP的ID、信號強度信息</string>
+    <string name="location_warning_message4">所要測量的周邊基站的ID、信號強度信息（GSM網的情況龢CDMA 網的情況）</string>
+    <string name="location_warning_message5">-</string>
+    <string name="location_close_warning_message">關閉網絡定位服務部分應用將無法定位。</string>
+    <string name="location_first_warning_message">爲了給您帶來更好的用戶體驗，系統會開啓網絡定位服務。</string>
+    <string name="always_wifi_scan_tip_tittle">總是允許掃描</string>
+    <string name="always_wifi_scan_tip_content">即使在WLAN關閉時，也允許網絡定位服務和應用程序掃描WLAN</string>
+    <string name="agree">同意</string>
+    <string name="disagree">不同意</string>
+    <string name="close_agree">確定</string>
+    <string name="close_disagree">取消</string>
+</resources>

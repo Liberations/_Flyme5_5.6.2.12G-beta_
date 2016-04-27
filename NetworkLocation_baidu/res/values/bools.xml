@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <bool name="force_enable">false</bool>
+    <bool name="show_tip_on_first">false</bool>
+    <bool name="show_tip">false</bool>
+    <bool name="is_filter">true</bool>
+    <bool name="debug_mode">false</bool>
+    <bool name="record_loc_log">false</bool>
+    <bool name="device_is_pad">false</bool>
+    <bool name="init_sdk">true</bool>
+</resources>

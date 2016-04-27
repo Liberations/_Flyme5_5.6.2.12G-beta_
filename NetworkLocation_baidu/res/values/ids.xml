@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item type="id" name="dialog_title">false</item>
+    <item type="id" name="dialog_content">false</item>
+    <item type="id" name="dialog_message">false</item>
+    <item type="id" name="btn_cancel">false</item>
+    <item type="id" name="btn_ok">false</item>
+    <item type="id" name="contentPanel">false</item>
+    <item type="id" name="scroll">false</item>
+    <item type="id" name="container_phone">false</item>
+    <item type="id" name="message">false</item>
+    <item type="id" name="always_wifi_scan_container">false</item>
+    <item type="id" name="always_scan_checkbox">false</item>
+    <item type="id" name="always_scan_tittle">false</item>
+    <item type="id" name="always_scan_tip_content">false</item>
+    <item type="id" name="container_pad">false</item>
+    <item type="id" name="message_pad">false</item>
+    <item type="id" name="always_wifi_scan_container_pad">false</item>
+    <item type="id" name="always_scan_tittle_pad">false</item>
+    <item type="id" name="always_scan_tip_content_pad">false</item>
+    <item type="id" name="always_scan_checkbox_pad">false</item>
+    <item type="id" name="parentPanel">false</item>
+    <item type="id" name="scrollView">false</item>
+    <item type="id" name="always_scan_container1">false</item>
+    <item type="id" name="always_scan_tittle1">false</item>
+    <item type="id" name="always_scan_tip_content1">false</item>
+    <item type="id" name="always_scan_checkbox1">false</item>
+    <item type="id" name="buttonPanel">false</item>
+    <item type="id" name="leftSpacer">false</item>
+    <item type="id" name="button1">false</item>
+    <item type="id" name="button2">false</item>
+    <item type="id" name="rightSpacer">false</item>
+</resources>

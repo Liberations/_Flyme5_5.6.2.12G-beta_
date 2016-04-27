@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout android:id="@id/contentPanel" android:layout_width="fill_parent" android:layout_height="fill_parent"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <ScrollView android:id="@id/scroll" android:layout_width="fill_parent" android:layout_height="wrap_content">
+        <FrameLayout android:layout_width="fill_parent" android:layout_height="wrap_content">
+            <RelativeLayout android:id="@id/container_phone" android:layout_width="fill_parent" android:layout_height="wrap_content">
+                <LinearLayout android:orientation="vertical" android:id="@id/message" android:layout_width="fill_parent" android:layout_height="wrap_content">
+                    <TextView android:textColor="#ff000000" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_marginLeft="15.0dip" android:layout_marginTop="10.0dip" android:layout_marginRight="10.0dip" android:text="@string/location_warning_message1" />
+                    <TextView android:textColor="#ff000000" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_marginLeft="15.0dip" android:layout_marginTop="8.0dip" android:layout_marginRight="10.0dip" android:text="@string/location_warning_message2" />
+                    <LinearLayout android:orientation="horizontal" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_marginTop="8.0dip">
+                        <TextView android:textColor="#ff000000" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginLeft="15.0dip" android:text="@string/location_warning_message5" />
+                        <TextView android:textColor="#ff000000" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginLeft="23.0dip" android:layout_marginRight="10.0dip" android:text="@string/location_warning_message3" />
+                    </LinearLayout>
+                    <LinearLayout android:orientation="horizontal" android:layout_width="fill_parent" android:layout_height="wrap_content">
+                        <TextView android:textColor="#ff000000" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginLeft="15.0dip" android:text="@string/location_warning_message5" />
+                        <TextView android:textColor="#ff000000" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginLeft="23.0dip" android:layout_marginRight="10.0dip" android:text="@string/location_warning_message4" />
+                    </LinearLayout>
+                </LinearLayout>
+                <LinearLayout android:orientation="vertical" android:id="@id/always_wifi_scan_container" android:padding="5.0dip" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_below="@id/message">
+                    <LinearLayout android:layout_gravity="center" android:orientation="horizontal" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_marginLeft="2.0dip">
+                        <CheckBox android:id="@id/always_scan_checkbox" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginRight="5.0dip" />
+                        <TextView android:textSize="17.0sp" android:textColor="#ff000000" android:id="@id/always_scan_tittle" android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="@string/always_wifi_scan_tip_tittle" />
+                    </LinearLayout>
+                    <RelativeLayout android:gravity="center_vertical" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_marginLeft="38.0dip">
+                        <TextView android:textColor="#ff000000" android:id="@id/always_scan_tip_content" android:layout_width="fill_parent" android:layout_height="wrap_content" android:text="@string/always_wifi_scan_tip_content" android:layout_alignParentLeft="true" android:layout_alignParentTop="true" />
+                    </RelativeLayout>
+                </LinearLayout>
+            </RelativeLayout>
+            <RelativeLayout android:id="@id/container_pad" android:visibility="gone" android:layout_width="fill_parent" android:layout_height="wrap_content">
+                <TextView android:textSize="18.0sp" android:textColor="#ff000000" android:id="@id/message_pad" android:padding="5.0dip" android:paddingTop="2.0dip" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_margin="5.0dip" android:text="@string/location_warning_message" android:paddingStart="14.0dip" android:paddingEnd="10.0dip" />
+                <LinearLayout android:orientation="vertical" android:id="@id/always_wifi_scan_container_pad" android:padding="5.0dip" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_marginLeft="5.0dip" android:layout_marginRight="5.0dip" android:layout_below="@id/message_pad">
+                    <TextView android:textSize="20.0sp" android:textColor="#ff000000" android:id="@id/always_scan_tittle_pad" android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="@string/always_wifi_scan_tip_tittle" />
+                    <RelativeLayout android:gravity="center_vertical" android:layout_width="fill_parent" android:layout_height="wrap_content">
+                        <TextView android:textSize="18.0sp" android:textColor="#ff000000" android:id="@id/always_scan_tip_content_pad" android:paddingTop="5.0dip" android:layout_width="fill_parent" android:layout_height="wrap_content" android:text="@string/always_wifi_scan_tip_content" android:layout_toLeftOf="@id/always_scan_checkbox_pad" />
+                        <CheckBox android:id="@id/always_scan_checkbox_pad" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginLeft="5.0dip" android:layout_marginRight="10.0dip" android:layout_alignParentTop="true" android:layout_alignParentRight="true" />
+                    </RelativeLayout>
+                </LinearLayout>
+            </RelativeLayout>
+        </FrameLayout>
+    </ScrollView>
+</RelativeLayout>
