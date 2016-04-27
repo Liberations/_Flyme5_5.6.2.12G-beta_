@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="save_password_message">是否記住此密碼？</string>
+    <string name="save_password_notnow">現在不要</string>
+    <string name="save_password_remember">記住</string>
+    <string name="save_password_never">永不</string>
+    <string name="use_mobile_play">使用流動網絡播放?</string>
+    <string name="webviewchromium_private_browsing_warning">這個 Android 版本不支援這項功能。</string>
+</resources>

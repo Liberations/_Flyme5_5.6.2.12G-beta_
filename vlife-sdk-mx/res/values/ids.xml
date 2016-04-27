@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item type="id" name="relativelayout">false</item>
+    <item type="id" name="image_background">false</item>
+    <item type="id" name="image_left">false</item>
+    <item type="id" name="text_layout">false</item>
+    <item type="id" name="image_right">false</item>
+    <item type="id" name="title">false</item>
+    <item type="id" name="description">false</item>
+</resources>
