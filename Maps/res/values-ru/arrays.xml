@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="RESTRICTION_HOTEL_CLASSES">
+        <item>Неважно</item>
+        <item>3 звезды</item>
+        <item>4 звезды</item>
+        <item>5 звезд</item>
+    </string-array>
+    <string-array name="RESTRICTION_HOTEL_CLASSES_DESCRIPTIONS">
+        <item>Неважно</item>
+        <item>3</item>
+        <item>4</item>
+        <item>5</item>
+    </string-array>
+    <string-array name="RESTRICTION_ALLOWED_PRICE_LEVEL">
+        <item>Любая</item>
+        <item>$</item>
+        <item>$$</item>
+        <item>$$$</item>
+        <item>$$$$</item>
+    </string-array>
+    <string-array name="RESTRICTION_ALLOWED_PRICE_LEVEL_SHORT">
+        <item>Любая цена</item>
+        <item>$</item>
+        <item>$$</item>
+        <item>$$$</item>
+        <item>$$$$</item>
+    </string-array>
+    <string-array name="RESTRICTION_ALLOWED_PRICE_LEVEL_DESCRIPTIONS">
+        <item>Любая цена</item>
+        <item>Дешево</item>
+        <item>Не очень дорого</item>
+        <item>Дорого</item>
+        <item>Очень дорого</item>
+    </string-array>
+    <string-array name="RESTRICTION_ALLOWED_STARS">
+        <item>Любая</item>
+        <item>2,0</item>
+        <item>3,0</item>
+        <item>4,0</item>
+    </string-array>
+    <string-array name="RESTRICTION_ALLOWED_STARS_SHORT">
+        <item>Любой рейтинг</item>
+        <item>Рейтинг 2+</item>
+        <item>Рейтинг 3+</item>
+        <item>Рейтинг 4+</item>
+    </string-array>
+    <string-array name="RESTRICTION_ALLOWED_STARS_DESCRIPTIONS">
+        <item>Любой рейтинг</item>
+        <item>2 звезды и выше</item>
+        <item>3 звезды и выше</item>
+        <item>4 звезды и выше</item>
+    </string-array>
+    <string-array name="WRITE_REVIEW_HINTS_FOR_RATING_STARS">
+        <item>Расскажите, почему вам совсем не понравилось это место.</item>
+        <item>Расскажите, почему вам не понравилось это место.</item>
+        <item>Расскажите, почему вам это место показалось приемлемым.</item>
+        <item>Расскажите, почему вам понравилось это место.</item>
+        <item>Расскажите, почему вам очень понравилось это место.</item>
+    </string-array>
+    <string-array name="CALLOUT_ALPHABETIC_LABELS">
+        <item>А</item>
+        <item>B</item>
+        <item>C</item>
+        <item>D</item>
+        <item>В</item>
+        <item>F</item>
+        <item>G</item>
+        <item>H</item>
+    </string-array>
+    <string-array name="SHOW_SCALEBAR_ENTRIES">
+        <item>При изменении</item>
+        <item>Всегда</item>
+    </string-array>
+    <string-array name="REVIEW_RATING_STAR_TEXT_DESCRIPTIONS">
+        <item>Ужасно</item>
+        <item>Плохо</item>
+        <item>Неплохо</item>
+        <item>Хорошо</item>
+        <item>Отлично</item>
+    </string-array>
+</resources>
