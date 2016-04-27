@@ -675,7 +675,7 @@
     <string name="privacy_permissions">Разрешения конфиденциальности</string>
     <string name="proc_services_white_list">Белый список приложений</string>
     <string name="proc_services_whitelist_add">Добавить</string>
-    <string name="proc_services_whitelist_empty">Нет записей</string>
+    <string name="proc_services_whitelist_empty">Нет элементов</string>
     <string name="proc_white_list_help_tips">Очистка приложений, процессов и сервисов может происходить без уведомлений. Добавление белого списка позволяет избегать автоочистки нужных программ.</string>
     <string name="process_kernel_label">Android OS</string>
     <string name="progress_message_importing_blacklist">Импорт в чёрный список</string>
