@@ -908,7 +908,7 @@
     <string name="mzc_pick_contacts_title">Выбрать контакты</string>
     <string name="mzc_pick_menu_add">Добавить</string>
     <string name="mzc_pick_share_contact">Передать контакт</string>
-    <string name="mzc_pick_vcard_title">Выбрать vCard</string>
+    <string name="mzc_pick_vcard_title">Выбор vCard</string>
     <string name="mzc_preference_account_dialog_subtitle">Настройка аккаунта по умолчанию для нового контакта</string>
     <string name="mzc_preference_export_contacts_title">Экспорт контактов</string>
     <string name="mzc_preference_import_contacts_from_otherphone_title">Импорт с другого телефона</string>
@@ -954,7 +954,7 @@
     <string name="mzc_type_voicemail_fail">Нет голосовых сообщений</string>
     <string name="mzc_unknown">Неизвест.</string>
     <string name="mzc_vcard_detail_info">Предпросмотр vCard</string>
-    <string name="mzc_vcard_empty">нет vCard</string>
+    <string name="mzc_vcard_empty">Нет vCard</string>
     <string name="mzc_vcard_export_failed">Ошибка экспорта</string>
     <string name="mzc_vcard_file_parse">Анализ</string>
     <string name="mzc_vcard_import_failed">Ошибка импорта</string>
