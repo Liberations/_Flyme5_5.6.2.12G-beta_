@@ -2664,7 +2664,7 @@
     <string name="data_collection_title">Присоединиться к программе</string>
     <string name="data_collection_summary">Данная программа собирает сведения об использовании устройства для улучшения нашей продукции, не нарушая при этом конфиденциальность.</string>
     <string name="flashlight">Фонарик</string>
-    <string name="keyboard_back_behavior">Ответ клавиатуры на кн. \"Домой\"</string>
+    <string name="keyboard_back_behavior">Отклик клавиатуры на кн. \"Домой\"</string>
     <string name="alipay_code">Платёжный код Alipay</string>
     <string name="headset_middlekey_wakeup">Управление гарнитурой</string>
     <string name="headset_middlekey_wakeup_summay">Удерживайте среднюю кнопку гарнитуры для активации голосового помощника</string>
