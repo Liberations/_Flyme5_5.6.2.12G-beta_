@@ -898,7 +898,7 @@
     <string name="mzc_net_contact_app_label">Справочник</string>
     <string name="mzc_network_communications">Сетевые коммуникации</string>
     <string name="mzc_new">Новый</string>
-    <string name="mzc_new_contact_in">Создать в</string>
+    <string name="mzc_new_contact_in">Создать контакт в:</string>
     <string name="mzc_nfc_vcard_save_successed">Чтение завершено, контакты сохранены</string>
     <string name="mzc_no_contacts">Нет контактов</string>
     <string name="mzc_no_sdcard_title">Нет карты памяти</string>
@@ -946,10 +946,10 @@
     <string name="mzc_tab_dialpad">Набор номера</string>
     <string name="mzc_tab_net_contacts">Жёлтые страницы</string>
     <string name="mzc_tips_for_show_group_contacts">Выбранные группы отображаются в списке</string>
-    <string name="mzc_type_incoming">Входящ.</string>
-    <string name="mzc_type_incoming_reject">Отклонить</string>
-    <string name="mzc_type_missed">Пропущ.</string>
-    <string name="mzc_type_outgoing">Исходящ.</string>
+    <string name="mzc_type_incoming">Входящий</string>
+    <string name="mzc_type_incoming_reject">Отклонен</string>
+    <string name="mzc_type_missed">Пропущен</string>
+    <string name="mzc_type_outgoing">Исходящий</string>
     <string name="mzc_type_voicemail">Голосовая почта</string>
     <string name="mzc_type_voicemail_fail">Нет голосовых сообщений</string>
     <string name="mzc_unknown">Неизвест.</string>
