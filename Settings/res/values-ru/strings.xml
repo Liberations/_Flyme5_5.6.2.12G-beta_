@@ -741,7 +741,7 @@
     <string name="search_settings">Поиск</string>
     <string name="search_settings_summary">Настроить параметры и управлять историей поиска</string>
     <string name="display_settings">Экран</string>
-    <string name="accelerometer_title">Поворот</string>
+    <string name="accelerometer_title">Автоповорот</string>
     <string name="accelerometer_summary_on">Автоматически менять ориентацию экрана при повороте телефона</string>
     <string name="accelerometer_summary_off">Автоматически менять ориентацию экрана при повороте телефона</string>
     <string name="brightness">Яркость</string>
@@ -1914,7 +1914,7 @@
     <string name="force_rtl_layout_all_locales">Написание справа налево</string>
     <string name="force_rtl_layout_all_locales_summary">Включить написание справа налево для всех языков</string>
     <string name="show_cpu_usage">Показывать загрузку ЦП</string>
-    <string name="show_cpu_usage_summary">Экран, показывающий текущую загрузку ЦП</string>
+    <string name="show_cpu_usage_summary">Вывод на экран информации о загрузке ЦП</string>
     <string name="force_hw_ui">Ускорить работу GPU</string>
     <string name="force_hw_ui_summary">Всегда использовать GPU для двухмерного рисования</string>
     <string name="force_msaa">Включить 4x MSAA</string>
