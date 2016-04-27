@@ -1,0 +1,3 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wallpaper android:name="@string/wallpaper_name" android:description="@string/wallpaper_description" android:thumbnail="@drawable/ic_launcher" android:author="@string/wallpaper_author"
+  xmlns:android="http://schemas.android.com/apk/res/android" />
