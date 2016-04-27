@@ -264,7 +264,7 @@
     <string name="mz_manual_whitebalance_label_daylight">Солнечно</string>
     <string name="mz_manual_whitebalance_label_fluorescent">Флюоресц.</string>
     <string name="mz_manual_whitebalance_label_incandescent">Лампа накал.</string>
-    <string name="mz_meter_separate_title">Разделение замера фокуса</string>
+    <string name="mz_meter_separate_title">Замер экспозиции</string>
     <string name="mz_mirror_not_support_burst">Серийную съемку нельзя использовать в данном случае</string>
     <string name="mz_mx3_filter_10_title">Подсветка</string>
     <string name="mz_mx3_filter_11_title">Принт</string>
