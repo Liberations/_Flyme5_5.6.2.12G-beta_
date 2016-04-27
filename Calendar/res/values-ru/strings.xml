@@ -32,7 +32,7 @@
     <string name="action_info_delete">Удалить</string>
     <string name="action_info_edit">Правка</string>
     <string name="action_info_import">Импорт</string>
-    <string name="action_jump_select_time">Перейти</string>
+    <string name="action_jump_select_time">Перейти на...</string>
     <string name="action_notice_settings">Настройка уведомлений</string>
     <string name="action_search">Поиск</string>
     <string name="action_search_cancel">Отмена</string>
@@ -288,10 +288,10 @@
     <string name="pref_header_reminders">Настройка напоминаний</string>
     <string name="pref_header_visible_calendar">Показ календаря</string>
     <string name="pref_title_alerts_popup">Всплывающее уведомление</string>
-    <string name="pref_title_all_day_default_reminder">Напоминание по умолчанию</string>
+    <string name="pref_title_all_day_default_reminder">День напоминания по умолчанию:</string>
     <string name="pref_title_almanac">Альманах</string>
     <string name="pref_title_default_calendar">По умолчанию</string>
-    <string name="pref_title_default_reminder">Время напоминания по умолчанию</string>
+    <string name="pref_title_default_reminder">Время напоминания по умолчанию:</string>
     <string name="pref_title_default_week_start">Начало недели</string>
     <string name="pref_title_holiday_zone">Место отдыха</string>
     <string name="pref_title_horoscope">Гороскоп</string>
