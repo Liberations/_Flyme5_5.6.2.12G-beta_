@@ -2891,7 +2891,7 @@
     <string name="screen_on_time">Работа экрана</string>
     <string name="phone_standby_time">Экран выключен</string>
     <string name="phone_standby_management">Приложения</string>
-    <string name="phone_standby_management_tips">удаление энергоёмких приложений из фона</string>
+    <string name="phone_standby_management_tips">Удаление энергоёмких приложений из фона</string>
     <string name="wifi_running_time">Работа Wi-Fi</string>
     <string name="calling_time">Время вызовов</string>
     <string name="app_force_wakeup_time">Активация подсветки</string>
