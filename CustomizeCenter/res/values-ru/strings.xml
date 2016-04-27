@@ -43,7 +43,7 @@
     <string name="apply">Применить</string>
     <string name="apply_both_wallpaper">На оба экрана</string>
     <string name="apply_launcher_wallpaper">На рабочий стол</string>
-    <string name="apply_lock_wallpaper">На эран блокировки</string>
+    <string name="apply_lock_wallpaper">На экран блокировки</string>
     <string name="apply_smart_wallpaper">Смарт-обои</string>
     <string name="apply_wallpaper_menu_title">Применить</string>
     <string name="applying_wallpaper">Установка обоев</string>
