@@ -906,7 +906,7 @@
     <string name="title_activity_app_sec">Приложения</string>
     <string name="title_alarm_algin">Запланированные уведомления</string>
     <string name="title_allow_item">Разрешить %1$s: %2$s</string>
-    <string name="title_app_cutawaken">Пробуждение ПО в спящем режиме</string>
+    <string name="title_app_cutawaken">Пробужден. ПО в спящем режиме</string>
     <string name="title_app_killed_notification">Автоостановка энергоёмких приложений</string>
     <string name="title_app_sleep_manager">Управление приложениями</string>
     <string name="title_audio_all_tips">Системный звук</string>
