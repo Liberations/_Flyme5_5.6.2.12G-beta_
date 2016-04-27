@@ -2734,7 +2734,7 @@
     <string name="wave_wake_keyword_tag_dialog">Ввести команду</string>
     <string name="wave_wake_tip_more_words">Команда не принята. Произнесите 3 слова, как минимум</string>
     <string name="wave_wake_tip_lest_words">Команда не распознана. Произнесите 3 слова, как минимум</string>
-    <string name="wave_wake_tip_create_success">"Голосовая команда становлена 
+    <string name="wave_wake_tip_create_success">"Голосовая команда установлена 
  Повторите команду трижды для подтверждения"</string>
     <string name="wave_wake_tip_confirm">Повторите %d раз(а)</string>
     <string name="wave_wake_tip_once">Повторите для подтверждения</string>
