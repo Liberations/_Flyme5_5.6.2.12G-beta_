@@ -538,7 +538,7 @@
     <string name="mz_block_list_header">Блокировать записи за последние 30 дней</string>
     <string name="mz_block_mouth">/</string>
     <string name="mz_block_no_list_summary">Сохраняются записи блокировки только за последние 30 дней</string>
-    <string name="mz_block_no_list_title">Нет записей</string>
+    <string name="mz_block_no_list_title">Нет элементов</string>
     <string name="mz_block_reject_mms_restore">MMS не поддерживает восстановление</string>
     <string name="mz_block_restore">Восстановить</string>
     <string name="mz_block_year">/</string>
