@@ -538,7 +538,7 @@
     <string name="mz_block_list_header">Блокировать записи за последние 30 дней</string>
     <string name="mz_block_mouth">/</string>
     <string name="mz_block_no_list_summary">Сохраняются записи блокировки только за последние 30 дней</string>
-    <string name="mz_block_no_list_title">Нет записей</string>
+    <string name="mz_block_no_list_title">Нет элементов</string>
     <string name="mz_block_reject_mms_restore">MMS не поддерживает восстановление</string>
     <string name="mz_block_restore">Восстановить</string>
     <string name="mz_block_year">/</string>
@@ -675,7 +675,7 @@
     <string name="privacy_permissions">Разрешения конфиденциальности</string>
     <string name="proc_services_white_list">Белый список приложений</string>
     <string name="proc_services_whitelist_add">Добавить</string>
-    <string name="proc_services_whitelist_empty">Нет записей</string>
+    <string name="proc_services_whitelist_empty">Нет элементов</string>
     <string name="proc_white_list_help_tips">Очистка приложений, процессов и сервисов может происходить без уведомлений. Добавление белого списка позволяет избегать автоочистки нужных программ.</string>
     <string name="process_kernel_label">Android OS</string>
     <string name="progress_message_importing_blacklist">Импорт в чёрный список</string>
@@ -715,7 +715,7 @@
     <string name="result_count">" результатов"</string>
     <string name="rubbish_clean">Очистка ненужного</string>
     <string name="rubbish_files">Ненужные файлы</string>
-    <string name="rubbish_memory_item_summary">%1$s процессов и %2$s сервисов</string>
+    <string name="rubbish_memory_item_summary">Процессов: %1$s; служб: %2$s</string>
     <string name="rubbish_overapk">Неиспользуемое ПО</string>
     <string name="rubbish_overuninstall">Остатки удалённого ПО</string>
     <string name="rubbish_white_list">Белый список</string>
@@ -906,7 +906,7 @@
     <string name="title_activity_app_sec">Приложения</string>
     <string name="title_alarm_algin">Запланированные уведомления</string>
     <string name="title_allow_item">Разрешить %1$s: %2$s</string>
-    <string name="title_app_cutawaken">Пробуждение ПО в спящем режиме</string>
+    <string name="title_app_cutawaken">Пробужден. ПО в спящем режиме</string>
     <string name="title_app_killed_notification">Автоостановка энергоёмких приложений</string>
     <string name="title_app_sleep_manager">Управление приложениями</string>
     <string name="title_audio_all_tips">Системный звук</string>

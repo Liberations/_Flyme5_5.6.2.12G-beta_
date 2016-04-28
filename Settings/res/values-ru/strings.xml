@@ -771,9 +771,9 @@
     <string name="title_font_size">Размер шрифта</string>
     <string name="dialog_title_font_size">Размер шрифта</string>
     <string name="sim_lock_settings">Настройки блокировки SIM-карты</string>
-    <string name="sim_lock_settings_category">Уст. блокировку SIM-карты</string>
+    <string name="sim_lock_settings_category">Установка блок. SIM-карты</string>
     <string name="sim_lock_settings_title">Блокировка SIM-карты</string>
-    <string name="sim_pin_toggle">Блок. SIM-карты</string>
+    <string name="sim_pin_toggle">Блокировка SIM-карты</string>
     <string name="sim_lock_on">Требуется ввод PIN-кода</string>
     <string name="sim_lock_off">При включении телефона будет необходимо ввести PIN-код</string>
     <string name="sim_pin_change">Изменить PIN-код</string>
@@ -2454,7 +2454,7 @@
     <string name="bluetooth_access_contact_call_history">Доступ к контактам и истории вызовов</string>
     <string name="bt_waiting">Подождите…</string>
     <string name="ok">OK</string>
-    <string name="bluetooth_visibility">Видимость</string>
+    <string name="bluetooth_visibility">Обнаружение</string>
     <string name="bluetooth_not_connected">Не соединён</string>
     <string name="bluetooth_and">" и "</string>
     <string name="bluetooth_mark">,</string>

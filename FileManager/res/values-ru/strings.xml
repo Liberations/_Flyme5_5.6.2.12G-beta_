@@ -16,7 +16,7 @@
     <string name="add_fast_folder">Добавить в избранное</string>
     <string name="add_fast_folder_fail_tips">Добавлено в избранное</string>
     <string name="add_fast_folder_success_tips">Добавлено</string>
-    <string name="alwaysUse">По умолчанию для этого действия</string>
+    <string name="alwaysUse">Использовать по умолчанию</string>
     <string name="apk_count">APK: %s</string>
     <string name="apk_display_name">Файлы APK</string>
     <string name="apk_uninstalled_tip">не устан.</string>

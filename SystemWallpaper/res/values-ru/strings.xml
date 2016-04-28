@@ -124,7 +124,7 @@
     <string name="set_wallpaper">Установить</string>
     <string name="set_wallpaper_home">На рабочий стол</string>
     <string name="set_wallpaper_lock">На экран блокировки</string>
-    <string name="set_wallpaper_lock_home">Оба экрана</string>
+    <string name="set_wallpaper_lock_home">На оба экрана</string>
     <string name="tv_tips">Использование живых обоев повышает расход энергии</string>
     <string name="mc_pattern_a_hour_before">1 час назад</string>
     <string name="mc_pattern_a_minute_before">1 минуту назад</string>
