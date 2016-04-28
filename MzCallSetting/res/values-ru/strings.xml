@@ -212,7 +212,7 @@
     <string name="mc_pm_s_mms">Послать MMS</string>
     <string name="mc_pm_network">Передача данных</string>
     <string name="mc_pm_wlan">Wi-Fi</string>
-    <string name="mc_pm_location">Позиционирование</string>
+    <string name="mc_pm_location">Местоположение</string>
     <string name="mc_pm_recordaudio_local">Аудиозаписи</string>
     <string name="mc_pm_recordaudio_phone">Записи разговоров</string>
     <string name="mc_pm_camera">Камера (Фото/Видео)</string>
@@ -236,7 +236,7 @@
     <string name="mc_go_Refreshing">Обновить</string>
     <string name="mc_last_refresh">Последнее обновление</string>
     <string name="mc_last_refresh_hour">" ч. назад"</string>
-    <string name="mc_last_refresh_minute">мин назад</string>
+    <string name="mc_last_refresh_minute">мин. назад</string>
     <string name="mc_last_refresh_second">сек. назад</string>
     <string name="mc_last_refresh_just_now">сейчас</string>
     <string name="mc_selectionbutton_all">Все</string>
