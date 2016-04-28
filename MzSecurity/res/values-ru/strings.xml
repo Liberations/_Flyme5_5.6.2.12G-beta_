@@ -138,7 +138,7 @@
     <string name="app_waken_tab_empty">Нет запущенных приложений</string>
     <string name="app_waken_tab_waken_mutually">Связанный запуск</string>
     <string name="appcache_uninstalled_trash_other">Другие файлы</string>
-    <string name="application_list">Список приложений</string>
+    <string name="application_list">Список приложений:</string>
     <string name="application_managerment">Управление приложениями</string>
     <string name="appsec_allowall">Разрешить все</string>
     <string name="appsec_prompt">Всегда спрашивать</string>
@@ -169,7 +169,7 @@
     <string name="block_by_default_rule">Стандартный режим</string>
     <string name="block_by_whitelist">Только белый список</string>
     <string name="block_fake_basestation">Подозрительные номера</string>
-    <string name="block_filter_date">[年月日]</string>
+    <string name="block_filter_date">[Дата]</string>
     <string name="block_list_no_blacklist">Нет сообщений в черном списке</string>
     <string name="block_list_no_message">Нет блокированных сообщений</string>
     <string name="block_list_title">Список блокированных</string>
@@ -202,7 +202,7 @@
     <string name="bs_add_blacklist_dialog_summary_line1_text">" будет добавлен в чёрный список"</string>
     <string name="bs_add_blacklist_dialog_summary_line2_text">Удалить также записи вызовов</string>
     <string name="bs_add_blacklists_dialog_summary_line1_text">и т.д. будут добавлены в чёрный список</string>
-    <string name="bs_blacklist_set_pfs_summary">Звонки и сообщения из черного списка будут блокироваться</string>
+    <string name="bs_blacklist_set_pfs_summary">Звонки и сообщения из чёрного списка будут блокироваться</string>
     <string name="bs_blacklist_set_pfs_title">Настройки чёрного списка</string>
     <string name="bs_blacklist_spam_spfs_title">Фильтр чёрного списка</string>
     <string name="bs_confirm_delete_black">Удаление чёрного списка %1$s</string>
@@ -275,7 +275,7 @@
     <string name="clear_sdk_lost_dir">Потерянные системные файлы</string>
     <string name="clear_sdk_temp_file">Временные файлы</string>
     <string name="clear_sdk_thumbnail">Эскизы галереи</string>
-    <string name="clear_sdk_thumbnail_invalid">Ошибочные миниатюры галереи</string>
+    <string name="clear_sdk_thumbnail_invalid">Ошибочные эскизы галереи</string>
     <string name="close_perm_manage">Управление разрешениями</string>
     <string name="cloud_query">Поиск в облаке</string>
     <string name="collision_lite_version_toast">Обнаружен конфликт безопасности lite-версии! Спам-блокировка будет временно отключена.</string>
@@ -370,7 +370,7 @@
     <string name="high_power_save_subtitle">Время работы увеличено на 30%</string>
     <string name="high_power_save_title">Основн.</string>
     <string name="import_str">Импорт</string>
-    <string name="inint_stat_circle">Фоновый звук при инициации</string>
+    <string name="inint_stat_circle">Фоновый звук при включении</string>
     <string name="initMounthAccountDate">1-й день каждого месяца</string>
     <string name="installed">Установлено</string>
     <string name="intermediate_power_save">Средн.</string>
@@ -461,7 +461,7 @@
     <string name="mc_pm_dialog_push">Всплывающий Push</string>
     <string name="mc_pm_dlg_cancel">Отмена</string>
     <string name="mc_pm_dlg_ok">ОК</string>
-    <string name="mc_pm_location">Позиционирование</string>
+    <string name="mc_pm_location">Местоположение</string>
     <string name="mc_pm_network">Передача данных</string>
     <string name="mc_pm_nfc">NFC</string>
     <string name="mc_pm_not_allow_check_app">Запретить</string>
@@ -732,7 +732,7 @@
     <string name="scan_done_no_safe">%1$s угроз найдено</string>
     <string name="scan_done_safe">Сканирование окончено, ваш телефон в безопасности</string>
     <string name="scan_hint_opt_done">Готово</string>
-    <string name="scan_phone_clean">Поиск больших файлов иприложений</string>
+    <string name="scan_phone_clean">Поиск больших файлов и приложений</string>
     <string name="scan_power_mode_item">Поиск энергоёмких приложений</string>
     <string name="scan_ram">Сканирование RAM</string>
     <string name="scan_rubbish">Поиск ненужных файлов</string>
@@ -970,7 +970,7 @@
     <string name="trafficCorrection">Калибровка трафика</string>
     <string name="trafficUnit">МБ</string>
     <string name="traffic_airplanemode">Невозможно включить режим полета</string>
-    <string name="traffic_app_list">Список приложений</string>
+    <string name="traffic_app_list">Список приложений:</string>
     <string name="traffic_click_to_correct">Калибровка</string>
     <string name="traffic_click_to_setUp">Установить</string>
     <string name="traffic_controll_hint">Оповещение и отключение при перерасходе</string>
