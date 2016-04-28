@@ -159,9 +159,9 @@
     <string name="mc_hour">час</string>
     <string name="mc_is_Refreshing">Обновление</string>
     <string name="mc_last_refresh">Последнее обновление</string>
-    <string name="mc_last_refresh_hour">" ч. назад"</string>
+    <string name="mc_last_refresh_hour">" час назад"</string>
     <string name="mc_last_refresh_just_now">сейчас</string>
-    <string name="mc_last_refresh_minute">мин назад</string>
+    <string name="mc_last_refresh_minute">мин. назад</string>
     <string name="mc_last_refresh_second">сек. назад</string>
     <string name="mc_loading_view_text">Загрузка</string>
     <string name="mc_minute">мин</string>
@@ -180,7 +180,7 @@
     <string name="mc_pm_dialog_push">Всплывающий Push</string>
     <string name="mc_pm_dlg_cancel">Отмена</string>
     <string name="mc_pm_dlg_ok">ОК</string>
-    <string name="mc_pm_location">Позиционирование</string>
+    <string name="mc_pm_location">Местоположение</string>
     <string name="mc_pm_network">Передача данных</string>
     <string name="mc_pm_nfc">NFC</string>
     <string name="mc_pm_not_allow_check_app">Запретить</string>
@@ -301,7 +301,7 @@
     <string name="ptr_go_Refreshing">Обновить</string>
     <string name="ptr_is_Refreshing">Обновление</string>
     <string name="ptr_last_refresh">Последнее</string>
-    <string name="ptr_last_refresh_hour">ч. назад</string>
+    <string name="ptr_last_refresh_hour">час назад</string>
     <string name="ptr_last_refresh_just_now">Сейчас</string>
     <string name="ptr_last_refresh_minute">мин. назад</string>
     <string name="ptr_last_refresh_second">сек. назад</string>
@@ -311,7 +311,7 @@
     <string name="relex">Отдых</string>
     <string name="reminders_label">Добавить напоминание</string>
     <string name="repeats_end_label">Окончание повтора</string>
-    <string name="repeats_label">Повторы</string>
+    <string name="repeats_label">Повторять</string>
     <string name="response_accept">Принять</string>
     <string name="response_decline">Отклонить</string>
     <string name="response_maybe">Возможно</string>
