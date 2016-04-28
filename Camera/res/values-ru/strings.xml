@@ -110,7 +110,7 @@
     <string name="mc_pm_dialog_push">Всплывающий Push</string>
     <string name="mc_pm_dlg_cancel">Отмена</string>
     <string name="mc_pm_dlg_ok">ОК</string>
-    <string name="mc_pm_location">Позиционирование</string>
+    <string name="mc_pm_location">Местоположение</string>
     <string name="mc_pm_network">Передача данных</string>
     <string name="mc_pm_nfc">NFC</string>
     <string name="mc_pm_not_allow_check_app">Запретить</string>
@@ -153,7 +153,7 @@
     <string name="mz_action_bar_multi_choice_cancel">Отмена</string>
     <string name="mz_action_bar_multi_choice_select_all">Все</string>
     <string name="mz_action_bar_multi_choice_select_all_cancel">Нет</string>
-    <string name="mz_action_bar_multi_choice_title">Выбрано %d</string>
+    <string name="mz_action_bar_multi_choice_title">Выбрано: %d</string>
     <string name="mz_address">Контакты</string>
     <string name="mz_address_info_addr">Адрес</string>
     <string name="mz_address_info_birthday">День рожд.</string>
@@ -388,8 +388,8 @@
     <string name="video_err">Не удалось воспроизвести видео</string>
     <string name="video_reach_size_limit">Достигнут максимальный размер видео</string>
     <string name="waiting_download">Дождитесь загрузки</string>
-    <string name="mc_pattern_a_hour_before">1 час назад</string>
-    <string name="mc_pattern_a_minute_before">1 минуту назад</string>
+    <string name="mc_pattern_a_hour_before">час назад</string>
+    <string name="mc_pattern_a_minute_before">минуту назад</string>
     <string name="mc_pattern_hour_before">, часов назад</string>
     <string name="mc_pattern_minute_before">, минут назад</string>
     <string name="mc_pattern_month_day" formatted="false">%-e/%-m</string>
