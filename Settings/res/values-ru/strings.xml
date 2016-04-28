@@ -2865,7 +2865,7 @@
     <string name="time_usage">Время: %s</string>
     <string name="normal_sleep_time">Время сна:</string>
     <string name="screen_force_wakeup_title">Принудительное пробуждение:</string>
-    <string name="screen_force_wakeup_summary">Включая синхронизацию сообщений, обновление данных и т.д.</string>
+    <string name="screen_force_wakeup_summary">Онлайн синхронизация сообщений, контактов, обмен данными</string>
     <string name="app_force_wakeup_rank">Пробуждение экрана приложениями</string>
     <string name="app_force_wakeup_summary">"%1$s  пробуждений: %2$d раз"</string>
     <string name="app_force_wakeup_frequency">%d д/ч</string>
@@ -2883,7 +2883,7 @@
     <string name="app_force_screen_on_title">Время принудительного пробуждения:</string>
     <string name="app_force_screen_on_summary">Включая навигацию, просмотр видео, игры</string>
     <string name="app_force_screen_on_rank">Работа экрана в приложениях</string>
-    <string name="durationHourMinuteSecond">%1$d ч %2$d м %3$d с</string>
+    <string name="durationHourMinuteSecond">%1$d ч. %2$d м. %3$d с.</string>
     <string name="power_usage_percent">Энергопотребление: %s</string>
     <string name="counts">%d раз</string>
     <string name="radio_weak_time">Слабый сигнал:</string>
