@@ -559,11 +559,11 @@
     </string-array>
     <string-array name="smart_touch_behavior_long_entries">
         <item>Выключено</item>
-        <item>Переместить кнопку</item>
+        <item>Перемещение кнопки SmartTouch</item>
     </string-array>
     <string-array name="smart_touch_behavior_up_entries">
         <item>Выключено</item>
-        <item>Возврат на десктоп</item>
+        <item>Возврат на рабочий стол</item>
         <item>Блокировка экрана</item>
         <item>Закрыть текущее приложение</item>
         <item>Диспетчер задач</item>
@@ -608,7 +608,7 @@
     <string-array name="mz_screen_timeout_entries">
         <item>30 сек.</item>
         <item>1 мин.</item>
-        <item>2 мин</item>
+        <item>2 мин.</item>
         <item>5 мин.</item>
         <item>10 мин.</item>
         <item>30 мин.</item>
@@ -630,7 +630,7 @@
     </string-array>
     <string-array name="keyboard_back_behavior_entries">
         <item>Свернуть клавиатуру</item>
-        <item>Выключить клавиатуру и вернуться</item>
+        <item>Выкл. клавиатуру и вернуться</item>
     </string-array>
     <string-array name="app_standby_permission">
         <item>Разрешение режима ожидания</item>

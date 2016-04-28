@@ -32,7 +32,7 @@
     <string name="action_info_delete">Удалить</string>
     <string name="action_info_edit">Правка</string>
     <string name="action_info_import">Импорт</string>
-    <string name="action_jump_select_time">Перейти</string>
+    <string name="action_jump_select_time">Перейти на...</string>
     <string name="action_notice_settings">Настройка уведомлений</string>
     <string name="action_search">Поиск</string>
     <string name="action_search_cancel">Отмена</string>
@@ -124,8 +124,8 @@
     <string name="hint_description">Описание</string>
     <string name="hint_num_calc_after">Введите не более, чем %d дней после</string>
     <string name="hint_num_calc_before">Введите не более, чем %d дней до начала</string>
-    <string name="hint_what">Содержание</string>
-    <string name="hint_where">Место</string>
+    <string name="hint_what">Название события</string>
+    <string name="hint_where">Место действия</string>
     <string name="load_more_list_footer_default_text">Загрузка</string>
     <string name="loading">Загрузка</string>
     <string name="local_calendar">Системный календарь</string>
@@ -288,11 +288,11 @@
     <string name="pref_header_reminders">Настройка напоминаний</string>
     <string name="pref_header_visible_calendar">Показ календаря</string>
     <string name="pref_title_alerts_popup">Всплывающее уведомление</string>
-    <string name="pref_title_all_day_default_reminder">Напоминание по умолчанию</string>
+    <string name="pref_title_all_day_default_reminder">День напоминания по умолчанию:</string>
     <string name="pref_title_almanac">Альманах</string>
     <string name="pref_title_default_calendar">По умолчанию</string>
-    <string name="pref_title_default_reminder">Время напоминания по умолчанию</string>
-    <string name="pref_title_default_week_start">Начало недели</string>
+    <string name="pref_title_default_reminder">Время напоминания по умолчанию:</string>
+    <string name="pref_title_default_week_start">Первый день недели:</string>
     <string name="pref_title_holiday_zone">Место отдыха</string>
     <string name="pref_title_horoscope">Гороскоп</string>
     <string name="pref_title_notice">Настройка напоминаний</string>
@@ -306,8 +306,8 @@
     <string name="ptr_last_refresh_minute">мин. назад</string>
     <string name="ptr_last_refresh_second">сек. назад</string>
     <string name="ptr_pull_refresh">Потянуть вниз для обновления</string>
-    <string name="recurrence_end_date">До</string>
-    <string name="recurrence_end_times">раз</string>
+    <string name="recurrence_end_date">До:</string>
+    <string name="recurrence_end_times">Сколько</string>
     <string name="relex">Отдых</string>
     <string name="reminders_label">Добавить напоминание</string>
     <string name="repeats_end_label">Окончание повтора</string>

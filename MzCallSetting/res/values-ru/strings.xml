@@ -59,7 +59,7 @@
     <string name="mz_basic_settings">Основные настройки</string>
     <string name="flyme_settings_summary">Активируйте аккаунт для пользования бесплатными вызовами</string>
     <string name="mz_contacts_manager_summary">Импорт/экспорт контактов SIM-карты</string>
-    <string name="Mz_respond_via_sms_setting_summary">Изменить текст сообщений</string>
+    <string name="Mz_respond_via_sms_setting_summary">Изменение текста сообщений</string>
     <string name="Mz_respond_via_sms_setting_title">Отклоняющие сообщения</string>
     <string name="expand_option_title">Ещё</string>
     <string name="speed_voicemail">Гол. почта</string>

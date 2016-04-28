@@ -13,7 +13,7 @@
     <string name="abc_searchview_description_voice">Голосовой поиск</string>
     <string name="abc_shareactionprovider_share_with">Открыть доступ</string>
     <string name="abc_shareactionprovider_share_with_application">Открыть доступ пользователю %s</string>
-    <string name="add_fast_folder">Добавит в избранное</string>
+    <string name="add_fast_folder">Добавить в избранное</string>
     <string name="add_fast_folder_fail_tips">Добавлено в избранное</string>
     <string name="add_fast_folder_success_tips">Добавлено</string>
     <string name="alwaysUse">По умолчанию для этого действия</string>
@@ -44,7 +44,7 @@
     <string name="connect_text">Подключить</string>
     <string name="content_text" formatted="false">%s папок, %s файлов</string>
     <string name="content_title">Данные:  </string>
-    <string name="copy_to_here">Копировать сюда</string>
+    <string name="copy_to_here">Копировать</string>
     <string name="copying">Копирование</string>
     <string name="date_am">д.п.</string>
     <string name="date_pm">п.п.</string>
@@ -54,7 +54,7 @@
     <string name="deleting">Удаление</string>
     <string name="detail_computing">Статистика</string>
     <string name="dialog_hint_zip">Архивировать</string>
-    <string name="dialog_title_zip">%s файл(ов) для архивирования</string>
+    <string name="dialog_title_zip">Файлы для архивирования: %s</string>
     <string name="dialog_zipping">Архивирование</string>
     <string name="disconnected_text">Отключить</string>
     <string name="disk_capacity_title">Телефон</string>
@@ -89,8 +89,8 @@
     <string name="extracting">Извлечение</string>
     <string name="fasfolder_count">Папок: %s</string>
     <string name="fast_folder">Избранное</string>
-    <string name="fastfolder_count">Удаление избранных папок: %s</string>
-    <string name="fastfolder_delete">Удалено</string>
+    <string name="fastfolder_count">Удалить из избранного: %s</string>
+    <string name="fastfolder_delete">Удалить</string>
     <string name="file_count">%s</string>
     <string name="file_exists">Имя файла уже существует</string>
     <string name="file_limit_error">Путь к файлу слишком длинный, сократите путь</string>
@@ -258,7 +258,7 @@
     <string name="mz_action_bar_multi_choice_cancel">Отмена</string>
     <string name="mz_action_bar_multi_choice_select_all">Все</string>
     <string name="mz_action_bar_multi_choice_select_all_cancel">Нет</string>
-    <string name="mz_action_bar_multi_choice_title">Выбрано %d</string>
+    <string name="mz_action_bar_multi_choice_title">Выбрано: %d</string>
     <string name="mz_date_time_day">д</string>
     <string name="mz_date_time_hour">ч</string>
     <string name="mz_date_time_min">м</string>
@@ -305,7 +305,7 @@
     <string name="none_space">Недостаточно места</string>
     <string name="none_space_text">Недостаточно места</string>
     <string name="normal_toolbar_title">Выбрать файлы</string>
-    <string name="not_show_hidden_file_text">Не показывать скрытые файлы/папки</string>
+    <string name="not_show_hidden_file_text">Не показывать скрытые элементы</string>
     <string name="notif_server_restart">FTP перезагружен</string>
     <string name="notif_server_starting">FTP запущен</string>
     <string name="notif_title">FTP запущен</string>
@@ -357,7 +357,7 @@
     <string name="server_control_charset">Кодирование передачи</string>
     <string name="setting">Настройки</string>
     <string name="share_dialog_title">Передать</string>
-    <string name="show_hidden_file_text">Показывать скрытые файлы/папки</string>
+    <string name="show_hidden_file_text">Показывать скрытые элементы</string>
     <string name="size_info">%1$s из %2$s доступно</string>
     <string name="size_title">Размер:  </string>
     <string name="sort_by_date">По дате</string>
@@ -369,11 +369,11 @@
     <string name="stay_awake_summary">Экран всегда активен при использовании FTP</string>
     <string name="stay_awake_title">Экран активен</string>
     <string name="stop">Остановить</string>
-    <string name="stop_copy">остановка копирования</string>
-    <string name="stop_extract">остановка извлечения</string>
-    <string name="stop_move">остановка перемещения</string>
-    <string name="stop_upload">остановка загрузки</string>
-    <string name="stop_zip">остановка сжатия</string>
+    <string name="stop_copy">Остановка копирования</string>
+    <string name="stop_extract">Остановка извлечения</string>
+    <string name="stop_move">Остановка перемещения</string>
+    <string name="stop_upload">Остановка загрузки</string>
+    <string name="stop_zip">Остановка сжатия</string>
     <string name="storage_display_name">Локальные файлы</string>
     <string name="storage_warning">Внешний накопитель недоступен</string>
     <string name="switch_view">Переключить вид</string>
