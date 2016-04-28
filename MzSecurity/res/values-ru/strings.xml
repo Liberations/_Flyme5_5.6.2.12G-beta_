@@ -715,7 +715,7 @@
     <string name="result_count">" результатов"</string>
     <string name="rubbish_clean">Очистка ненужного</string>
     <string name="rubbish_files">Ненужные файлы</string>
-    <string name="rubbish_memory_item_summary">%1$s процессов и %2$s сервисов</string>
+    <string name="rubbish_memory_item_summary">Процессов: %1$s; служб: %2$s</string>
     <string name="rubbish_overapk">Неиспользуемое ПО</string>
     <string name="rubbish_overuninstall">Остатки удалённого ПО</string>
     <string name="rubbish_white_list">Белый список</string>
