@@ -5,11 +5,11 @@
         <item quantity="one">"Трек добавлен в "</item>
     </plurals>
     <plurals name="album_count">
-        <item quantity="other">%d альбомов</item>
+        <item quantity="other">альбомов: %d</item>
         <item quantity="one">1 альбом</item>
     </plurals>
     <plurals name="artist_count">
-        <item quantity="other">%d артистов</item>
+        <item quantity="other">артистов: %d</item>
         <item quantity="one">1 артист</item>
     </plurals>
     <plurals name="delete_album_confirm">
@@ -29,11 +29,11 @@
         <item quantity="one">Удалить 1 трек и локальный файл</item>
     </plurals>
     <plurals name="download_completed_count">
-        <item quantity="other">%d треков загружено</item>
+        <item quantity="other">треков загружено: %d</item>
         <item quantity="one">1 трек загружен</item>
     </plurals>
     <plurals name="download_failed_count">
-        <item quantity="other">Ошибка загрузки %d трека(ов)</item>
+        <item quantity="other">Ошибка загрузки треков: %d</item>
         <item quantity="one">Ошибка загрузки трека</item>
     </plurals>
     <plurals name="remove_song">
