@@ -34,7 +34,7 @@
     <string name="smarttouch_help_button_title_1">Нажать</string>
     <string name="smarttouch_help_button_summary_1">Действие Назад</string>
     <string name="smarttouch_help_button_title_2">Дважды</string>
-    <string name="smarttouch_help_button_summary_2">Опустить экран вниз</string>
+    <string name="smarttouch_help_button_summary_2">Потянуть экран вниз</string>
     <string name="smarttouch_help_button_title_3">Удержать</string>
     <string name="smarttouch_help_button_summary_3">Переместить кнопку</string>
     <string name="smarttouch_help_button_title_4">Вверх</string>
@@ -670,7 +670,7 @@
     <string name="keyguard_password_enter_pin_password_code">Введите PIN-код</string>
     <string name="keyguard_password_wrong_pin_code">Неверный PIN-код.</string>
     <string name="keyguard_label_text">Для разблокировки нажмите \"Меню\", а затем 0.</string>
-    <string name="faceunlock_multiple_failures">Все попытки войти с помощью Фейсконтроля использованы</string>
+    <string name="faceunlock_multiple_failures">Все попытки разблокировки \"Фейсконтроль\" использованы</string>
     <string name="keyguard_charged">Батарея заряжена</string>
     <string name="keyguard_plugged_in">Зарядка батареи</string>
     <string name="keyguard_low_battery">Подключите зарядное устройство.</string>
@@ -867,7 +867,7 @@
     <string name="mc_pm_s_mms">Послать MMS</string>
     <string name="mc_pm_network">Передача данных</string>
     <string name="mc_pm_wlan">Wi-Fi</string>
-    <string name="mc_pm_location">Позиционирование</string>
+    <string name="mc_pm_location">Местоположение</string>
     <string name="mc_pm_recordaudio_local">Аудиозаписи</string>
     <string name="mc_pm_recordaudio_phone">Записи разговоров</string>
     <string name="mc_pm_camera">Камера (Фото/Видео)</string>
@@ -891,7 +891,7 @@
     <string name="mc_go_Refreshing">Обновить</string>
     <string name="mc_last_refresh">Последнее обновление</string>
     <string name="mc_last_refresh_hour">" ч. назад"</string>
-    <string name="mc_last_refresh_minute">мин назад</string>
+    <string name="mc_last_refresh_minute">мин. назад</string>
     <string name="mc_last_refresh_second">сек. назад</string>
     <string name="mc_last_refresh_just_now">сейчас</string>
     <string name="mc_selectionbutton_all">Все</string>
