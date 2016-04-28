@@ -552,7 +552,7 @@
     </string-array>
     <string-array name="smart_touch_behavior_doubleclick_entries">
         <item>Выключено</item>
-        <item>Опустить экран вниз</item>
+        <item>Потянуть вниз</item>
         <item>Панель уведомлений</item>
         <item>Блокировка экрана</item>
         <item>Диспетчер задач</item>
