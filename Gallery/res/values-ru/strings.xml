@@ -607,7 +607,7 @@
     <string name="move_fail_by_rom_space_invaild">Ошибка перемещения: недостаточно места в памяти телефона</string>
     <string name="move_fail_by_sd_space_invaild">Ошибка перемещения: недостаточно места на карте памяти</string>
     <string name="move_fail_by_sd_unmount">Ошибка перемещения: карта памяти извлечена</string>
-    <string name="move_to">Перемещение файла(ов) в ..</string>
+    <string name="move_to">Перемещение файлов в...</string>
     <string name="moving">Перемещение...</string>
     <string name="multiface_crop_help">Нажмите на лицо для обрезки</string>
     <string name="multiplication_sign">x</string>
