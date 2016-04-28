@@ -46,8 +46,8 @@
     <string name="attach_photo_dialog_title">Фотография контакта</string>
     <string name="audio_chat">Голосовой чат</string>
     <string name="blurbJoinContactDataWith">Выберите контакт, который хотите объединить с \"%s\":</string>
-    <string name="caching_vcard_message">Выполняется кеширование файлов vCard в локальное временное хранилище, после чего начнется импорт.</string>
-    <string name="caching_vcard_title">Кеширование…</string>
+    <string name="caching_vcard_message">Выполняется кэширование файлов vCard в локальное временное хранилище, после чего начнется импорт.</string>
+    <string name="caching_vcard_title">Кэширование…</string>
     <string name="callAgain">Позвонить снова</string>
     <string name="callBack">Перезвонить</string>
     <string name="callDetailTitle">Сведения о вызове</string>
@@ -652,7 +652,7 @@
     <string name="mc_last_refresh">Последнее обновление</string>
     <string name="mc_last_refresh_hour">" ч. назад"</string>
     <string name="mc_last_refresh_just_now">сейчас</string>
-    <string name="mc_last_refresh_minute">мин назад</string>
+    <string name="mc_last_refresh_minute">мин. назад</string>
     <string name="mc_last_refresh_second">сек. назад</string>
     <string name="mc_loading_view_text">Загрузка</string>
     <string name="mc_minute">мин</string>
@@ -671,7 +671,7 @@
     <string name="mc_pm_dialog_push">Всплывающий Push</string>
     <string name="mc_pm_dlg_cancel">Отмена</string>
     <string name="mc_pm_dlg_ok">ОК</string>
-    <string name="mc_pm_location">Позиционирование</string>
+    <string name="mc_pm_location">Местоположение</string>
     <string name="mc_pm_network">Передача данных</string>
     <string name="mc_pm_nfc">NFC</string>
     <string name="mc_pm_not_allow_check_app">Запретить</string>
@@ -714,7 +714,7 @@
     <string name="mz_action_bar_multi_choice_cancel">Отмена</string>
     <string name="mz_action_bar_multi_choice_select_all">Все</string>
     <string name="mz_action_bar_multi_choice_select_all_cancel">Нет</string>
-    <string name="mz_action_bar_multi_choice_title">Выбрано %d</string>
+    <string name="mz_action_bar_multi_choice_title">Выбрано: %d</string>
     <string name="mz_date_time_day">д</string>
     <string name="mz_date_time_hour">ч</string>
     <string name="mz_date_time_min">м</string>
@@ -905,7 +905,7 @@
     <string name="mzc_no_search_result">Нет результатов</string>
     <string name="mzc_not_set">нет</string>
     <string name="mzc_other">Другие действия</string>
-    <string name="mzc_pick_contacts_title">Выбрать контакты</string>
+    <string name="mzc_pick_contacts_title">Выбор контактов</string>
     <string name="mzc_pick_menu_add">Добавить</string>
     <string name="mzc_pick_share_contact">Передать контакт</string>
     <string name="mzc_pick_vcard_title">Выбор vCard</string>
