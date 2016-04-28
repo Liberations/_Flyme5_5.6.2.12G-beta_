@@ -159,7 +159,7 @@
     <string name="mc_hour">час</string>
     <string name="mc_is_Refreshing">Обновление</string>
     <string name="mc_last_refresh">Последнее обновление</string>
-    <string name="mc_last_refresh_hour">" час назад"</string>
+    <string name="mc_last_refresh_hour">" ч. назад"</string>
     <string name="mc_last_refresh_just_now">сейчас</string>
     <string name="mc_last_refresh_minute">мин. назад</string>
     <string name="mc_last_refresh_second">сек. назад</string>
@@ -301,7 +301,7 @@
     <string name="ptr_go_Refreshing">Обновить</string>
     <string name="ptr_is_Refreshing">Обновление</string>
     <string name="ptr_last_refresh">Последнее</string>
-    <string name="ptr_last_refresh_hour">час назад</string>
+    <string name="ptr_last_refresh_hour">ч. назад</string>
     <string name="ptr_last_refresh_just_now">Сейчас</string>
     <string name="ptr_last_refresh_minute">мин. назад</string>
     <string name="ptr_last_refresh_second">сек. назад</string>
