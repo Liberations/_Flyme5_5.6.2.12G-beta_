@@ -119,7 +119,7 @@
     <string name="mz_action_bar_multi_choice_cancel">Отмена</string>
     <string name="mz_action_bar_multi_choice_select_all">Все</string>
     <string name="mz_action_bar_multi_choice_select_all_cancel">Нет</string>
-    <string name="mz_action_bar_multi_choice_title">Выбрано %d</string>
+    <string name="mz_action_bar_multi_choice_title">Выбрано: %d</string>
     <string name="mz_date_time_day">д</string>
     <string name="mz_date_time_hour">ч</string>
     <string name="mz_date_time_min">м</string>
@@ -207,8 +207,8 @@ W"</string>
     <string name="validating">Проверка...</string>
     <string name="video_upgrade">Видео-презентация обновления Flyme</string>
     <string name="yes">Да</string>
-    <string name="mc_pattern_a_hour_before">1 час назад</string>
-    <string name="mc_pattern_a_minute_before">1 минуту назад</string>
+    <string name="mc_pattern_a_hour_before">час назад</string>
+    <string name="mc_pattern_a_minute_before">минуту назад</string>
     <string name="mc_pattern_hour_before">, часов назад</string>
     <string name="mc_pattern_minute_before">, минут назад</string>
     <string name="mc_pattern_month_day" formatted="false">%-e/%-m</string>
