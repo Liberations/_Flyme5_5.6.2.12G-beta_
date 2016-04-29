@@ -831,8 +831,8 @@
     <string name="subtitle_audio_click_vibrate">Вибрация по нажатию кн. \"Домой\"</string>
     <string name="subtitle_screen_blur">Выключение прозрачности экономит энергию</string>
     <string name="subtitle_screen_ps">Экономия заряда может достигать 50% в некоторых случаях, однако при этом изображения могут выглядеть искаженными</string>
-    <string name="summary_app_disable_sleep">%1$d прилож. остановлено в режиме ожидания</string>
-    <string name="summary_app_enable_sleep">%1$d прилож. в режиме ожидания</string>
+    <string name="summary_app_disable_sleep">%1$d приложен. остановлено в режиме ожидания</string>
+    <string name="summary_app_enable_sleep">%1$d приложен. в режиме ожидания</string>
     <string name="summary_auto_ps">Автоуведомление</string>
     <string name="summary_config_audio">Рингтон и вибрация</string>
     <string name="summary_config_device">Основные настройки</string>
