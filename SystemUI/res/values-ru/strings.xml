@@ -830,8 +830,8 @@
     <string name="mc_yes">ОК</string>
     <string name="mc_cancel">Отмена</string>
     <string name="mc_hour">час</string>
-    <string name="mc_minute">мин</string>
-    <string name="mc_second">сек</string>
+    <string name="mc_minute">мин.</string>
+    <string name="mc_second">сек.</string>
     <string name="more_item_label">Ещё</string>
     <string name="mc_monday">ПН</string>
     <string name="mc_tuesday">ВТ</string>
