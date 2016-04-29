@@ -98,8 +98,8 @@
     <string name="mc_yes">ОК</string>
     <string name="mc_cancel">Отмена</string>
     <string name="mc_hour">час</string>
-    <string name="mc_minute">мин</string>
-    <string name="mc_second">сек</string>
+    <string name="mc_minute">мин.</string>
+    <string name="mc_second">сек.</string>
     <string name="more_item_label">Ещё</string>
     <string name="mc_monday">ПН</string>
     <string name="mc_tuesday">ВТ</string>
@@ -159,7 +159,7 @@
     <string name="mc_go_Refreshing">Обновить</string>
     <string name="mc_last_refresh">Последнее обновление</string>
     <string name="mc_last_refresh_hour">" ч. назад"</string>
-    <string name="mc_last_refresh_minute">мин назад</string>
+    <string name="mc_last_refresh_minute">мин. назад</string>
     <string name="mc_last_refresh_second">сек. назад</string>
     <string name="mc_last_refresh_just_now">сейчас</string>
     <string name="mc_selectionbutton_all">Все</string>
