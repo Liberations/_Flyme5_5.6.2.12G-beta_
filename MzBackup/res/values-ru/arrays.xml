@@ -6,14 +6,14 @@
     </string-array>
     <string-array name="DATE_FORMAT">
         <item>г.</item>
-        <item>м</item>
-        <item>д</item>
+        <item>м.</item>
+        <item>д.</item>
         <item>час</item>
-        <item>мин</item>
-        <item>сек</item>
+        <item>мин.</item>
+        <item>сек.</item>
     </string-array>
     <string-array name="DATE_FORMAT_TITLE">
-        <item>мин</item>
+        <item>мин.</item>
         <item>час</item>
         <item>дн.</item>
         <item>лет</item>
