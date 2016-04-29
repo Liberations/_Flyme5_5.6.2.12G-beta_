@@ -116,8 +116,8 @@
     <string name="app_standby_management">Управление спящим режимом</string>
     <string name="app_waken_allowed_from_cnt">разрешён запуск для %1$s прилож.</string>
     <string name="app_waken_details_empty_txt">Нет истории запусков</string>
-    <string name="app_waken_details_info1_0">Попытка запуска %1$s раз, %2$s сек назад</string>
-    <string name="app_waken_details_info1_1">Попыток запуска %1$s раз, %2$s мин назад</string>
+    <string name="app_waken_details_info1_0">Попытка запуска %1$s раз, %2$s сек. назад</string>
+    <string name="app_waken_details_info1_1">Попыток запуска %1$s раз, %2$s мин. назад</string>
     <string name="app_waken_details_info1_2">Попыток запуска %1$s раз, %2$s ч. назад</string>
     <string name="app_waken_details_info1_3">Попыток запуска %1$s раз, %2$s д. назад</string>
     <string name="app_waken_details_info2">Попытка запуска: %1$s раз</string>
@@ -128,8 +128,8 @@
     <string name="app_waken_details_title">Приложение</string>
     <string name="app_waken_from_cnt">запрет запуска %1$s приложений</string>
     <string name="app_waken_from_empty">общий запуск запрещён</string>
-    <string name="app_waken_item_time0">%1$s сек назад</string>
-    <string name="app_waken_item_time1">%1$s мин назад</string>
+    <string name="app_waken_item_time0">%1$s сек. назад</string>
+    <string name="app_waken_item_time1">%1$s мин. назад</string>
     <string name="app_waken_item_time2">%1$s ч. назад</string>
     <string name="app_waken_item_time3">%1$s д. назад</string>
     <string name="app_waken_list_title_allow">Связанный запуск: %1$s</string>
@@ -442,10 +442,10 @@
     <string name="mc_last_refresh">Последнее обновление</string>
     <string name="mc_last_refresh_hour">" ч. назад"</string>
     <string name="mc_last_refresh_just_now">сейчас</string>
-    <string name="mc_last_refresh_minute">мин назад</string>
+    <string name="mc_last_refresh_minute">мин. назад</string>
     <string name="mc_last_refresh_second">сек. назад</string>
     <string name="mc_loading_view_text">Загрузка</string>
-    <string name="mc_minute">мин</string>
+    <string name="mc_minute">мин.</string>
     <string name="mc_monday">ПН</string>
     <string name="mc_never">Единожды</string>
     <string name="mc_permission_apply">Разрешения</string>
@@ -487,7 +487,7 @@
     <string name="mc_search_icon">Поиск</string>
     <string name="mc_search_icon_input_clear">Очистить</string>
     <string name="mc_search_text">Поиск</string>
-    <string name="mc_second">сек</string>
+    <string name="mc_second">сек.</string>
     <string name="mc_selectionbutton_all">Все</string>
     <string name="mc_sunday">ВС</string>
     <string name="mc_thursday">ЧТ</string>
