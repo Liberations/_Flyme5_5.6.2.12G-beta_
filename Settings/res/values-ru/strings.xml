@@ -2670,7 +2670,7 @@
     <string name="headset_middlekey_wakeup_summay">Удерживайте среднюю кнопку гарнитуры для активации голосового помощника</string>
     <string name="buttom_button_style_title">Вид нижней навигации</string>
     <string name="buttom_button_style_summary">Всплывающая иконка или строка</string>
-    <string name="phone_view">Диалер (вызовы)</string>
+    <string name="phone_view">Телефон</string>
     <string name="float_button">Иконка</string>
     <string name="bottom_button">Строка</string>
     <string name="other_app_view">Другие приложения</string>
