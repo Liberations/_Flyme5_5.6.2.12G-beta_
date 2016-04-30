@@ -127,7 +127,7 @@
     <string name="app_waken_details_list_title_off">разрешён запуск следующ. ПО: %1$s</string>
     <string name="app_waken_details_title">Приложение</string>
     <string name="app_waken_from_cnt">запрет запуска %1$s приложений</string>
-    <string name="app_waken_from_empty">общий запуск запрещён</string>
+    <string name="app_waken_from_empty">Общий запуск запрещён</string>
     <string name="app_waken_item_time0">%1$s сек. назад</string>
     <string name="app_waken_item_time1">%1$s мин. назад</string>
     <string name="app_waken_item_time2">%1$s ч. назад</string>
